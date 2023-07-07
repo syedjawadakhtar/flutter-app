@@ -1,5 +1,9 @@
 # Flutter App Template
 
+| ![homePage.PNG](/images/homePage.PNG) | ![contentPage.PNG](/images/contentPage.PNG) | ![profilePage.PNG](/images/profilePage.PNG) |
+  |:--:|:--:|:--:|
+  | Home Page | Content Page | Profile Page |
+
 This can be used as a starting point to make an app on iOS/Android using Flutter.
 
 ## Resources
